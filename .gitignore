@@ -4,3 +4,7 @@
 .Ruserdata
 
 *Rproj
+data/
+
+/.quarto/
+_site
